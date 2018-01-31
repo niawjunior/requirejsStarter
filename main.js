@@ -1,3 +1,3 @@
 require(['config'], () => {
-    require(['app/jqueryFile'])
+    require(['app/app'])
 })
